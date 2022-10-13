@@ -13,3 +13,22 @@ body {
     width: 600px;
     margin: auto;
 }
+
+a {
+text-align: center;
+}
+
+#rubrik {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: medium;
+}
+h2 {
+    font-size: medium;
+}
+p {
+    font-size: small;
+}
