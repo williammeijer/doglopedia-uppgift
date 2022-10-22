@@ -15,12 +15,28 @@ body {
 }
 
 a {
+display: inline-block;
 text-align: center;
 }
 
 #rubrik {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image {
+    background-image: url(logo.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 300px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 200px;
+    margin: auto;
+
 }
 
 h1 {
